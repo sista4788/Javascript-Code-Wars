@@ -1,2 +1,3 @@
 # Javascript-Data-Structures
-Contains all the data structures concepts
+Contains all the data structures concepts in Javascript.
+
